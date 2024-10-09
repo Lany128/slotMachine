@@ -42,43 +42,7 @@ namespace slotMachine
             }
 
 
-            //for (int i = 0; i < 3 ; i++) 
-            //{
-            //    Console.WriteLine(array2D[i, 0]);
-            //    Console.WriteLine(array2D[i, 1]);
-            //    Console.WriteLine(array2D[i, 2]);
-            //}
-
-            //int[,] randomNumbers = new int[3, 3];
-
-            //Random random = new Random();
-            //// 1 2 1
-            //// 2 2 1
-            //// 1 2 1
-
-            //for (int i = 0; i < randomNumbers.GetLength(0); i++)
-            //{
-            //    for (int j = 0; j < randomNumbers.GetLength(1); j++)
-            //    {
-            //        //Console.WriteLine(randomNumbers[i, j]);
-            //        //Console.Write();
-            //        randomNumbers[i, j] = random.Next(0, 4);
-            //    }
-
-            //}
-
-
-
-            //Console.WriteLine(randomNumbers[1, 1]);
-            //Console.WriteLine(randomNumbers[2, 2]);
-
-            //Console.WriteLine("The slot machine result:)");
-
-            //for (int i = 0; i < randomNumbers.Length; i++)
-            //{
-            //    Console.WriteLine(randomNumbers[i, 0]);
-
-            //}
+           
         }
     }
 
